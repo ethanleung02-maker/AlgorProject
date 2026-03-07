@@ -1,0 +1,2 @@
+- New data structure: **Fenwick Tree (Binary Indexed Tree)**
+- New algorithm: **Dijkstra’s Algorithm for Shortest Path**
