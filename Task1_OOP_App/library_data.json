@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Title",
+        "author": "Author",
+        "available": true
+    },
+    {
+        "title": "test",
+        "author": "test1",
+        "available": true
+    },
+    {
+        "title": "Title123",
+        "author": "Author",
+        "available": true
+    }
+]
